@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ようこそ！イコラブ沼",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-14T15:02:34.866239Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ようこそ!イコラブ沼",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_ようこそ!イコラブ沼_=LOVE.txt"
+    }
+  ]
+}
